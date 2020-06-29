@@ -1,9 +1,25 @@
 {
-  "products": [
+  "Estoque": [
     {
-      "name": "aaaa",
-      "price": "2222",
-      "id": 1
+      "id": 1,
+      "nome_produto": "Cerveja Bramah",
+      "preco": "6.00",
+      "quantidade": "100",
+      "tipo": "Garrafa"
+    },
+    {
+      "id": 2,
+      "nome_produto": "Cerveja garrafa Skol",
+      "preco": "6.50",
+      "quantidade": "20",
+      "tipo": "Garrafa"
+    },
+    {
+      "nome_produto": "Whisky Jack Daniel's",
+      "preco": "20.00",
+      "quantidade": "1",
+      "tipo": "Dose",
+      "id": 3
     }
   ]
 }
